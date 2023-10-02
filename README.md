@@ -1,1 +1,5 @@
-# Frontend-Interview
+# 📒 Frontend-Interview
+
+### 프론트엔드 면접을 위한 질문 리스트
+
+- 틀린 부분이 있다면 언제든 PR 또는 이슈 등록해주세요🐥
